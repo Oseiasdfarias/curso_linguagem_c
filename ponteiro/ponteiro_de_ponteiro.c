@@ -20,8 +20,10 @@ int main(){
 	// Conteúdo do endereço do endereço
 	printf("\n");
 	printf("Cont do End do End em **P2: %d\n", **p2);// x
-		printf("Cont em                  x: %d\n", x);// x
+	printf("Cont em                  x: %d\n", x);// x
 
 	printf("\n");
+
 	return 0;
+
 }
